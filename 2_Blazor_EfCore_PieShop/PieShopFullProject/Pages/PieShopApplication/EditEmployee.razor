@@ -42,7 +42,7 @@
 
         <div class="form-group row">
             <label for="Country" class="col-sm-3">Country :</label>
-            <InputSelect id="Country" class="form-control col-sm-8" @bind-Value="@Employee.CountryId">
+            <InputSelect id="Country" class="form-control col-sm-8" @bind-Value="@CountryId">
                 @foreach (var country in Countries)
                 {
                     <option value="@country.CountryId">@country.Name</option>
@@ -57,7 +57,7 @@
         because we have this type but we prefer to add the id
         thats good for relation
             *@
-            <InputSelect id="JobCategory" class="form-control col-sm-8" @bind-Value="@Employee.JobCategoryId">
+            <InputSelect id="JobCategory" class="form-control col-sm-8" @bind-Value="@JobCategoryId">
                 @foreach (var job in JobCategories)
                 {
                     <option value="@job.JobCategoryId">@job.JobCategoryName</option>
