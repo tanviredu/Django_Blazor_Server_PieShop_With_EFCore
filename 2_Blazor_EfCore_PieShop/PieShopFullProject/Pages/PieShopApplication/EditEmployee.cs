@@ -15,8 +15,8 @@ namespace PieShopFullProject.Pages.PieShopApplication
         public NavigationManager navigation { get; set; }
         public Employee Employee { get; set; }
         public IEnumerable<Employee> Employees { get; set; }
-        //public string CountryId = string.Empty;
-        //public string JobCategoryId = string.Empty;
+        public string CountryId = string.Empty;
+        public string JobCategoryId = string.Empty;
         public List<Country> Countries { get; set; } = new List<Country>();
         public List<JobCategory> JobCategories { get; set; } = new List<JobCategory>();
         protected override void OnInitialized()
@@ -34,8 +34,8 @@ namespace PieShopFullProject.Pages.PieShopApplication
         public void Edit()
         {
 
-            //Employee.CountryId = int.Parse(CountryId);
-            //Employee.JobCategoryId = int.Parse(JobCategoryId);
+            Employee.CountryId = int.Parse(CountryId);
+            Employee.JobCategoryId = int.Parse(JobCategoryId);
             using (var _context = new ApplicationDbContext())
             {
                 _context.Employees.Update(Employee);
