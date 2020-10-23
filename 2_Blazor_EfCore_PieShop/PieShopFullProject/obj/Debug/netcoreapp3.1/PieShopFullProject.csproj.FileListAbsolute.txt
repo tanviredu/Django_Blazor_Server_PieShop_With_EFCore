@@ -95,3 +95,5 @@ D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullP
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\Razor\Pages\PieShopApplication\EmployeeOverview.razor.g.cs
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\PieShopApplication\EmployeeDetails.razor.g.cs
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\Razor\Pages\PieShopApplication\EmployeeDetails.razor.g.cs
+D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\PieShopApplication\AddEmployee.razor.g.cs
+D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\Razor\Pages\PieShopApplication\AddEmployee.razor.g.cs
