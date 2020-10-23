@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Django_Blazor_Server_PieShop_With_EFCore\\2_Blazor_EfCore_PieShop\\PieShopFullProject\\PieShopFullProject.csproj": {}
+    "C:\\Users\\ornob\\Desktop\\Django_Blazor_Server_PieShop_With_EFCore\\2_Blazor_EfCore_PieShop\\PieShopFullProject\\PieShopFullProject.csproj": {}
   },
   "projects": {
-    "D:\\Django_Blazor_Server_PieShop_With_EFCore\\2_Blazor_EfCore_PieShop\\PieShopFullProject\\PieShopFullProject.csproj": {
+    "C:\\Users\\ornob\\Desktop\\Django_Blazor_Server_PieShop_With_EFCore\\2_Blazor_EfCore_PieShop\\PieShopFullProject\\PieShopFullProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Django_Blazor_Server_PieShop_With_EFCore\\2_Blazor_EfCore_PieShop\\PieShopFullProject\\PieShopFullProject.csproj",
+        "projectUniqueName": "C:\\Users\\ornob\\Desktop\\Django_Blazor_Server_PieShop_With_EFCore\\2_Blazor_EfCore_PieShop\\PieShopFullProject\\PieShopFullProject.csproj",
         "projectName": "PieShopFullProject",
-        "projectPath": "D:\\Django_Blazor_Server_PieShop_With_EFCore\\2_Blazor_EfCore_PieShop\\PieShopFullProject\\PieShopFullProject.csproj",
+        "projectPath": "C:\\Users\\ornob\\Desktop\\Django_Blazor_Server_PieShop_With_EFCore\\2_Blazor_EfCore_PieShop\\PieShopFullProject\\PieShopFullProject.csproj",
         "packagesPath": "C:\\Users\\ornob\\.nuget\\packages\\",
-        "outputPath": "D:\\Django_Blazor_Server_PieShop_With_EFCore\\2_Blazor_EfCore_PieShop\\PieShopFullProject\\obj\\",
+        "outputPath": "C:\\Users\\ornob\\Desktop\\Django_Blazor_Server_PieShop_With_EFCore\\2_Blazor_EfCore_PieShop\\PieShopFullProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ornob\\AppData\\Roaming\\NuGet\\NuGet.Config",
