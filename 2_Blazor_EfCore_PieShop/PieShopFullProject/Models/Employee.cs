@@ -26,10 +26,12 @@ namespace PieShopFullProject.Models
         public Gender Gender { get; set; }
 
         // one to one relationship
+        [Required]
         public int CountryId { get; set; }
         public Country Country { get; set; }
 
         //one to one relationship
+        [Required]
         public int JobCategoryId { get; set; }
         public JobCategory JobCategory { get; set; }
 
