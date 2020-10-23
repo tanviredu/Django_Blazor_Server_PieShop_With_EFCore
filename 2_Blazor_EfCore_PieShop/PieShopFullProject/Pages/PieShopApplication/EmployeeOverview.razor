@@ -24,6 +24,7 @@
                     <a href="@($"employeedetail/{employee.EmployeeId}")" class="btn btn-primary table-btn">
                         <i class="fas fa-info-circle"></i>
                     </a>
+                    <a class="btn btn-outline-danger" @onclick="(()=>Delete(employee.EmployeeId))">Delete</a>
                 </td>
             </tr>
         }
