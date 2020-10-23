@@ -8,8 +8,6 @@ D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullP
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\PieShopFullProject.AssemblyInfo.cs
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\PieShopFullProject.RazorComponent.input.cache
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
-D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
-D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
@@ -78,8 +76,6 @@ D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullP
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\PieShopFullProject.MvcApplicationPartsAssemblyInfo.cache
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\RazorDeclaration\PieShopFullProject.dll
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
-D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
-D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
@@ -89,3 +85,9 @@ D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullP
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\PieShopFullProject.dll
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\PieShopFullProject.pdb
 D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\PieShopFullProject.genruntimeconfig.cache
+D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Seed\CountrySeed.razor.g.cs
+D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\Razor\Pages\Seed\CountrySeed.razor.g.cs
+D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Seed\JobCategorySeed.razor.g.cs
+D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\Razor\Pages\Seed\JobCategorySeed.razor.g.cs
+D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Seed\EmployeeSeed.razor.g.cs
+D:\Django_Blazor_Server_PieShop_With_EFCore\2_Blazor_EfCore_PieShop\PieShopFullProject\obj\Debug\netcoreapp3.1\Razor\Pages\Seed\EmployeeSeed.razor.g.cs
